@@ -1,0 +1,13 @@
+/* Cibler les flèches de navigation gauche et droite */
+.image-gallery-icon {
+    color: #ccd0d2 !important; /* Couleur par défaut des flèches */
+  }
+  .image-gallery-icon:hover{
+    color: orange !important; /* Couleur orange au hover */
+  }
+  /* Modifier la taille des flèches en ajustant la taille des SVG */
+  .image-gallery-svg {
+    width: 50px !important; /* Largeur de la flèche */
+    height: 50px !important; /* Hauteur de la flèche */
+  }
+  
