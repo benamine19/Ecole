@@ -54,6 +54,3 @@ Elle permet l'administration des étudiants, des formateurs, des formations et d
 
 ### 1️⃣ Cloner le projet
 
-```bash
-git clone https://github.com/your-username/allrissala.git
-cd allrissala
