@@ -1,8 +1,59 @@
-# React + Vite
+# 🎓 Allrissala – Plateforme de Gestion d'École de Formation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Allrissala est une application web moderne conçue pour gérer une école de formation.
+Elle permet l'administration des étudiants, des formateurs, des formations et des inscriptions à travers une interface simple, rapide et intuitive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Fonctionnalités principales
+
+### 👨‍🎓 Gestion des étudiants
+- Ajouter / Modifier / Supprimer un étudiant
+- Consultation des profils
+- Suivi des inscriptions
+
+### 👨‍🏫 Gestion des formateurs
+- Ajouter des formateurs
+- Assigner des formations
+- Gestion des informations professionnelles
+
+### 📚 Gestion des formations
+- Création de nouvelles formations
+- Gestion des catégories
+- Description, durée et prix
+
+### 📝 Gestion des inscriptions
+- Inscription des étudiants aux formations
+- Suivi des paiements
+- Statut d'inscription
+
+### 🔐 Authentification
+- Inscription
+- Connexion sécurisée (JWT)
+- Rôles (Admin / Formateur)
+
+---
+
+## 🛠️ Technologies utilisées
+
+### Frontend
+- React.js
+- Redux Toolkit
+- Material UI
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Cloner le projet
+
+```bash
+git clone https://github.com/your-username/allrissala.git
+cd allrissala
